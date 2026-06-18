@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
   <h1>Hi 👋, I'm Mohan Sri Krishna V</h1>
   <h3>Software Engineer | Full Stack Developer | Angular • React • Node.js</h3>
@@ -114,4 +114,4 @@ I'm always interested in discussing:
 ✔ Open Source Collaboration
 
 ⭐ If you like my work, consider starring my repositories!
-```
+
